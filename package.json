@@ -1,0 +1,24 @@
+{
+  "name": "leetcodeproblem",
+  "version": "1.0.0",
+  "description": "Solving LeetCode problems",
+  "main": "index.js",
+  "scripts": {
+    "two-sum": "ts-node two-sum.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohammadf11/leetCodeProblem.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mohammadf11/leetCodeProblem/issues"
+  },
+  "homepage": "https://github.com/mohammadf11/leetCodeProblem#readme",
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  }
+}
