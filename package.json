@@ -4,7 +4,7 @@
   "description": "Solving LeetCode problems",
   "main": "index.js",
   "scripts": {
-    "two-sum": "ts-node two-sum.ts"
+    "two-sum": "ts-node ./solution/two-sum/two-sum.ts"
   },
   "repository": {
     "type": "git",
